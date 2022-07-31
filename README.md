@@ -55,10 +55,9 @@ Languages: Python & SQL.
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
       <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole..</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
--->
  
 
 
@@ -112,7 +111,7 @@ Languages: Python & SQL.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-Ojeabulu&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
     
-<!-- ![kennytheanalystt github stats](https://github-readme-stats.vercel.app/api?username=kennytheanalystt&show_icons=true&hide_border=true) -->
+![kennytheanalystt github stats](https://github-readme-stats.vercel.app/api?username=kennytheanalystt&show_icons=true&hide_border=true)
 
 
 <!--
