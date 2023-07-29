@@ -9,10 +9,13 @@
 Welcome to my profile
 
 
-💳 My name is Muhammed Abdulhadi kehinde, A Data Scientist, ML practitioner and Writer.
+💳 My name is Muhammed Abdulhadi kehinde, A Data Scientist, Technical Writer, ML practitioner.
     
-Languages: Python & SQL.
- - I also write tech stuffs on my [Blog](https://medium.com/@kennytheanalyst).
+Languages: Python, Javascript & SQL.
+ - I also write tech stuffs on my Blogs:
+ - [Medium](https://medium.com/@kennytheanalyst)
+ - [Hashnode](https://techwriterr.hashnode.dev/)
+ - [dev.to](https://dev.to/kennytheanalystt).
  - I have relevant years of experience in Data Science and Machine Learning(machine learning deployment with python framework and cloud service).
  - I've completed many projects which you'll find in my profile as you move on.
  - 👯I’m looking to get an open role/position in Data science, Machine learning, MLOps.
