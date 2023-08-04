@@ -33,8 +33,8 @@ Languages: Python, Javascript & SQL.
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/kennytheanalystt/Titanic_app"><b>Titanic AI App!</b></a></td>
-      <td>The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.This Full-Stack AI app was built based on a predictive Machine Learning Model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). The App is an AI application trained using Random Forest Classifier.</td>
+      <td><a href="https://github.com/kennytheanalystt/rfm_sales_analysis"><b>Sales Analysis (rfm and KPI)</b></a></td>
+      <td>This project offers a powerful data-driven approach to analyze sales performance, leveraging the combined insights of RFM (Recency, Frequency, Monetary Value) analysis and KPI reports. With the aim of optimizing marketing strategies and customer retention, it provide a comprehensive toolkit to uncover valuable patterns in customer behavior and performance metrics.</td>
     </tr>
     <tr>
     <tr>
@@ -49,7 +49,10 @@ Languages: Python, Javascript & SQL.
       <td><a href="https://github.com/kennytheanalystt/Covid-19-data-set"><b>Data analysis with SQL(covid-19 data-set)!</b></a></td>
       <td>This project take a look at covid-19 trend through 2020-2022 by differnt dimention eg Death-rate and Vaccination rate usind Postgresql.</td>
     </tr>
-     
+    <tr>
+      <td><a href="https://github.com/kennytheanalystt/Titanic_app"><b>Titanic AI App!</b></a></td>
+      <td>The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.This Full-Stack AI app was built based on a predictive Machine Learning Model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). The App is an AI application trained using Random Forest Classifier.</td>
+    </tr>
 <!--
 <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
@@ -67,6 +70,7 @@ Languages: Python, Javascript & SQL.
 ### 📝Technical Writing
  * [Text Mining: Analyzing text about machine learning.](https://medium.com/@kennytheanalyst/text-mining-analyzing-text-about-machine-learning-c819eacef6a7) `July` `2022`
  * [Mock dataset for your SQL project(No programming language needed)!](https://medium.com/@kennytheanalyst/mock-dataset-for-your-sql-project-no-programming-language-needed-684ff51e7115) `March` `2022`
+ * [Data-driven sales strategies the impact of rfm analysis and kpi reports unveiled](https://dev.to/kennytheanalystt/data-driven-sales-strategies-the-impact-of-rfm-analysis-and-kpi-reports-unveiled-1f60) `August` `2023`
  
 
   ### Let's Connect
